@@ -11,7 +11,7 @@ pynput: pip install pynput
 
 How is it working:
 
-Run the main.py
+Run the main.py //
 After running the app, first, it needs to measure the size of your display.
 To measure the size of your screen for calibrating the application and determination of the virtual mouse cursor's action area. Please put and hold the cursor on the down-Right corner (__|) of your screen, then press the ' C ' key on your keyboard for confirmation.
 After that, you need to select one of your hands (left or right) as a controller.
