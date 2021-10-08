@@ -4,10 +4,13 @@ This project is published in Sep 2021 by python 3.9. It can be used instead of y
 
 Library requirements: 
 
-OpenCV: pip install opencv-python.
-Mediapipe: pip install mediapipe.
-numpy: pip install numpy.
-pynput: pip install pynput.
+OpenCV: pip install opencv-python
+
+Mediapipe: pip install mediapipe
+
+numpy: pip install numpy
+
+pynput: pip install pynput
 
 How is it working:
 
